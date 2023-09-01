@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BancoxSql",
+            "request": "launch",
+            "mainClass": "BancoxSql",
+            "projectName": "PlacaGrafica_c0d5acdf"
+        },
+        {
+            "type": "java",
             "name": "Run with AppMap",
             "request": "launch",
             "mainClass": "",

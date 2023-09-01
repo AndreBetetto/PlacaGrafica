@@ -1,0 +1,9 @@
+1; GTX 4080; NVIDIA; 8; 3000.0; 2023; foto1.jpg; 
+2; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto2.jpg; 
+4; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto4.jpg; 
+5; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto5.jpg; 
+6; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto6.jpg; 
+7; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto7.jpg; 
+8; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto8.jpg; 
+9; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto9.jpg; 
+10; GTX 1080; NVIDIA; 8; 3000.0; 2016; foto10.jpg; 
